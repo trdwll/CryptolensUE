@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Packaged
+
+!Source/ThirdParty/x64/Release/*.lib
