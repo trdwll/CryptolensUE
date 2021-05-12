@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CryptolensUE",
+	"Description": "Implements the Cryptolens API into Unreal Engine.",
+	"Category": "Other",
+	"CreatedBy": "Russ 'trdwll' Treadwell",
+	"CreatedByURL": "https://trdwll.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CryptolensUE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
